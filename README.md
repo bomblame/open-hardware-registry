@@ -83,6 +83,10 @@ That's it. Everything else is optional.
 | `tags` | array | Searchable tags |
 | `website` | string | Project homepage |
 | `maintainer` | object | Maintainer info |
+| `main_projects` | string or array | Primary project title(s) for prominent display (comma-separated string or array) |
+| `priority` | integer | Display ordering weight (higher = shown first) |
+| `story_url` | string | URL to design story or blog post about the project |
+| `image_src` | string | URL to project image for card display |
 
 ---
 
