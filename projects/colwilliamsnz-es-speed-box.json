@@ -2,7 +2,7 @@
     "url": "https://github.com/colwilliamsnz/ES-Speed-Box.git",
     "name": "ES Speed Box",
     "description": "KiCad Circuit Design: Speedbox Controller for Pro-Ject Turntables with 16VAC Synchronous Motors",
-    "image_src": "https://raw.githubusercontent.com/colwilliamsnz/ES-Speed-Box/main/KiCad/Board1/Images/pcb.png",
+    "image_src": "images/colwilliamsnz-es-speed-box.png",
     "license": "MIT",
     "eda": "kicad",
     "maintainer": {

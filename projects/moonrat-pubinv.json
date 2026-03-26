@@ -2,6 +2,7 @@
     "url": "https://github.com/PubInv/moonrat",
     "name": "moonrat",
     "description": "Open-source portable incubator for field biological research. Maintains elevated temperatures in a tote-sized form factor for bacterial culture and Petrifilm testing without grid power.",
+    "image_src": "images/moonrat-pubinv.png",
     "eda": "kicad",
     "license": "AGPL-3.0",
     "maintainer": {

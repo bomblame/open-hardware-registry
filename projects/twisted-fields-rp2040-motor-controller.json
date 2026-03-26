@@ -2,7 +2,7 @@
     "url": "https://github.com/Twisted-Fields/rp2040-motor-controller.git",
     "name": "RP2040 Motor Controller",
     "description": "A dual channel brushless motor controller based on the RP2040 microcontroller, designed in Kicad.",
-    "image_src": "https://raw.githubusercontent.com/Twisted-Fields/rp2040-motor-controller/main/docs/dual.jpg",
+    "image_src": "images/twisted-fields-rp2040-motor-controller.jpg",
     "eda": "kicad",
     "tags": [
         "electronics",

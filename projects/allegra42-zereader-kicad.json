@@ -3,7 +3,7 @@
     "name": "ZEReader KiCad",
     "priority": 110,
     "story_url": "/about/blog/posts/design-story-zereader.html",
-    "image_src": "https://marx.engineer/images/ze-ray-front_hu_2107c26cfa7fab41.webp",
+    "image_src": "images/allegra42-zereader-kicad.webp",
     "description": "The ZEReader PCB is the custom open-hardware board designed for the ZEReader project — an open hardware eBook reader approach.",
     "license": "CERN-OHL-S-2.0 license",
     "eda": "kicad",

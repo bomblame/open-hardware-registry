@@ -2,7 +2,7 @@
     "url": "https://github.com/LibreSolar/bms-c1.git",
     "name": "LibreSolar BMS C1",
     "description": "16s / 100A Battery Management System",
-    "image_src": "https://img.shields.io/badge/development%20stage-eval-yellow.svg",
+    "image_src": "images/libresolar-bms-c1.jpg",
     "eda": "kicad",
     "tags": [
         "bms",

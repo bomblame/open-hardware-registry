@@ -2,7 +2,7 @@
     "url": "https://codeberg.org/RevK/ESP32-Flasher.git",
     "name": "ESP32-Flasher",
     "description": "The Flasher board is designed to allow simple flashing of code on to an ESP device, and run the code, and confirm self test results on LEDs. The main use case is a factory functional test with feedback of pass/fail via LEDs. The idea is a factory worker can simply plug the lead in to a target device, see a row of LEDs light one by one, then all go green (or red if failed). This simple operation should be foolproof!",
-    "image_src": "https://codeberg.org/RevK/ESP32-Flasher/media/branch/main/PCB/Flasher/Flasher.png",
+    "image_src": "images/esp32-flasher-revk.png",
     "eda": "kicad",
     "license": "GPL-3.0",
     "maintainer": {

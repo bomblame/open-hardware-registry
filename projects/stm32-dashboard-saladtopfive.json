@@ -2,7 +2,7 @@
     "url": "https://github.com/saladtopfive/STM32-Dashboard",
     "name": "STM32-Dashboard",
     "description": "Real-time digital dashboard for electric go-kart using STM32F746G-DISCO with TouchGFX. Displays speed, throttle, brake, battery status, motor temperature, G-forces, and lap timing.",
-    "image_src": "https://raw.githubusercontent.com/saladtopfive/STM32-Dashboard/main/Images/kicad_3d.png",
+    "image_src": "images/stm32-dashboard-saladtopfive.jpg",
     "eda": "kicad",
     "license": "MIT",
     "maintainer": {

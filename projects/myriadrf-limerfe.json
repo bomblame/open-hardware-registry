@@ -2,7 +2,7 @@
     "url": "https://github.com/myriadrf/LimeRFE.git",
     "name": "LimeRFE",
     "description": "LimeRFE hardware design",
-    "image_src": "https://raw.githubusercontent.com/myriadrf/LimeRFE/master/images/LimeRFE_722w.jpg",
+    "image_src": "images/myriadrf-limerfe.jpg",
     "eda": "kicad",
     "maintainer": {
         "name": "MyriadRF",

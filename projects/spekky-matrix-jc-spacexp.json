@@ -2,7 +2,7 @@
     "url": "https://github.com/jc-SpaceXp/Spekky-Matrix",
     "name": "Spekky-Matrix",
     "description": "FreeRTOS-based spectrum analyzer on 8x32 LED matrix with STM32. Captures audio via I2S microphone, performs real-time FFT, and displays frequency visualization using SPI LED drivers.",
-    "image_src": "https://raw.githubusercontent.com/jc-SpaceXp/Spekky-Matrix/main/pcb/kicad/pcb_3d_front.png",
+    "image_src": "images/spekky-matrix-jc-spacexp.png",
     "eda": "kicad",
     "license": "MIT",
     "tags": [

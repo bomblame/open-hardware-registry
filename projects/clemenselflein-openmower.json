@@ -5,7 +5,7 @@
     "priority": 115,
     "story_url": "/about/blog/posts/design-story-openmower.html",
     "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
-    "image_src": "https://raw.githubusercontent.com/ClemensElflein/OpenMower/main/./img/open_mower_app_1.jpg",
+    "image_src": "images/clemenselflein-openmower.jpg",
     "eda": "kicad",
     "tags": [
         "arduino",

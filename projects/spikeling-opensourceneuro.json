@@ -2,7 +2,7 @@
     "url": "https://github.com/OpenSourceNeuro/Spikeling",
     "name": "Spikeling",
     "description": "Open-source neuroscience education platform running the Izhikevich spiking neuron model on ESP32. Features desktop GUI for real-time visualization and hands-on electrophysiology experiments.",
-    "image_src": "https://raw.githubusercontent.com/OpenSourceNeuro/Spikeling/main/Documentation/Images/Spikeling_cover_inverted.png",
+    "image_src": "images/spikeling-opensourceneuro.png",
     "eda": "kicad",
     "license": "GPL-3.0",
     "maintainer": {

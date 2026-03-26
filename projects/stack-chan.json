@@ -2,7 +2,7 @@
     "url": "https://github.com/stack-chan/stack-chan.git",
     "name": "Stack-chan",
     "description": "A JavaScript-driven M5Stack-embedded super-kawaii robot.",
-    "image_src": "https://github.com/stack-chan/stack-chan/actions/workflows/build.yml/badge.svg",
+    "image_src": "images/stack-chan.gif",
     "license": "Apache-2.0",
     "eda": "kicad",
     "tags": [

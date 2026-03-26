@@ -2,7 +2,7 @@
     "url": "https://github.com/electrified/rcbus-opl3",
     "name": "rcbus-opl3",
     "description": "Hardware expansion card for RC2014/RCBus retro computing systems featuring Yamaha YMF262 and YAC512 chips for FM synthesis audio. Supports VGMPLAY for video game music playback.",
-    "image_src": "https://raw.githubusercontent.com/electrified/rcbus-opl3/main/images/opl3.jpg",
+    "image_src": "images/rcbus-opl3-electrified.jpg",
     "eda": "kicad",
     "maintainer": {
         "name": "electrified",

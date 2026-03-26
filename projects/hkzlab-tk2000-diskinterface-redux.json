@@ -2,7 +2,7 @@
     "url": "https://codeberg.org/hkzlab/TK2000_DiskInterface_REDUX",
     "name": "TK2000 DiskInterface REDUX",
     "description": "Floppy Disk interface card for the TK2000 home computer",
-    "image_src": "https://codeberg.org/hkzlab/TK2000_DiskInterface_REDUX/raw/branch/main/pics/TK2000_disk_interface.jpg",
+    "image_src": "images/hkzlab-tk2000-diskinterface-redux.jpg",
     "license": "CC-BY-SA-4.0",
     "eda": "kicad",
     "tags": [

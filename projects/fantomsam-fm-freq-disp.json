@@ -2,7 +2,7 @@
     "url": "https://gitlab.com/fantomsam/FM_Freq_Disp.git",
     "name": "FM Freq Disp",
     "description": "Software and Hardware design of a frequency counter display",
-    "image_src": "https://gitlab.com/fantomsam/FM_Freq_Disp/-/raw/master/Docs/Pics/PCB_3d_view_powray.png",
+    "image_src": "images/fantomsam-fm-freq-disp.png",
     "tags": [
         "C",
         "SDCC",

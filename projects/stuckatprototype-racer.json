@@ -1,7 +1,7 @@
 {
     "url": "https://github.com/stuckatprototype/racer.git",
     "name": "Racer",
-    "image_src": "https://img.youtube.com/vi/FulhEs5R5WU/0.jpg",
+    "image_src": "images/stuckatprototype-racer.jpg",
     "description": "An open-source miniature racing car built around ESP32 with motor control via Bluetooth, integrated color sensor, and AI training capabilities. Includes firmware, PCB designs, 3D-printable parts, and Python scripts for neural network training.",
     "license": "Apache-2.0",
     "eda": "kicad",

@@ -2,7 +2,7 @@
     "url": "https://github.com/nodestark/mdb-esp32-cashless",
     "name": "mdb-esp32-cashless",
     "description": "Open-source MDB protocol implementation for converting vending machines to cashless payment systems. ESP32-based with EVA DTS DEX/DDCMP telemetry support via MQTT or Bluetooth.",
-    "image_src": "https://raw.githubusercontent.com/nodestark/mdb-esp32-cashless/main/mdb-slave-esp32s3/mdb-slave-esp32s3_pcb_v3.jpg",
+    "image_src": "images/mdb-esp32-cashless-nodestark.jpg",
     "eda": "kicad",
     "license": "MIT",
     "tags": [

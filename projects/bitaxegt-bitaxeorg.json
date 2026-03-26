@@ -4,7 +4,7 @@
     "priority": 110, 
     "story_url": "/about/blog/posts/design-story-bitaxegt.html",
     "description": "Open-source Bitcoin mining device featuring dual BM1370 ASIC chips controlled by ESP32. High-performance, energy-efficient design with dual power management modules and improved mounting.",
-    "image_src": "https://raw.githubusercontent.com/bitaxeorg/BitaxeGT/main/doc/render.png",
+    "image_src": "images/bitaxegt-bitaxeorg.png",
     "eda": "kicad",
     "license": "CERN-OHL-S-2.0",
     "maintainer": {

@@ -2,7 +2,7 @@
     "url": "https://github.com/cjshearer/cweep",
     "name": "cweep",
     "description": "A 34-key solar-powered split keyboard inspired by Ferris Sweep. Features Bluetooth via Seeed Xiao nRF52840, hotswap Kailh Choc V1 switches, and reversible design for left/right hand use.",
-    "image_src": "https://raw.githubusercontent.com/cjshearer/cweep/main/images/cweep-bottom.png",
+    "image_src": "images/cweep-cjshearer.png",
     "eda": "kicad",
     "license": "MIT",
     "maintainer": {

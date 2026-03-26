@@ -2,7 +2,7 @@
     "url": "https://gitlab.com/ohmpi/ohmpi.git",
     "name": "OHMPI",
     "description": "OhmPi is an open hardware resistivity meter to provide the scientific community with a robust and flexible tool for monitoring experiments. Documentation: https://ohmpi.org",
-    "image_src": "https://ohmpi.org/_images/9.jpg",
+    "image_src": "images/ohmpi-ohmpi.jpg",
     "tags": [
         "electrical resistivity",
         "geophysics",

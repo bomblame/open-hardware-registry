@@ -2,7 +2,7 @@
     "url": "https://github.com/joelspadin/page-turner.git",
     "name": "Page Turner",
     "description": "USB foot pedals for turning pages on a sheet music reader",
-    "image_src": "https://raw.githubusercontent.com/joelspadin/page-turner/main/enclosure/images/photo.png",
+    "image_src": "images/joelspadin-page-turner.png",
     "eda": "kicad",
     "tags": [
         "foot-pedal",

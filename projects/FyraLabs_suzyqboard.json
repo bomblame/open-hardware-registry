@@ -1,7 +1,7 @@
 {
     "url": "https://github.com/FyraLabs/suzyqboard",
     "name": "SuzyQ Board",
-    "image_src": "https://private-user-images.githubusercontent.com/26487268/399222430-99acff1a-34fd-402f-9ee5-5a3a9cd6f432.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgyMTM5MjEsIm5iZiI6MTc2ODIxMzYyMSwicGF0aCI6Ii8yNjQ4NzI2OC8zOTkyMjI0MzAtOTlhY2ZmMWEtMzRmZC00MDJmLTllZTUtNWEzYTljZDZmNDMyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTEyVDEwMjcwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjOTZiNDAxNDY1ZTAyNDMxOGZhZDVhMTczNTJlODUxN2NhMjlkOWFmZDEyZjE4OGI5M2M3MTMxOWI4NzQ4ZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.J3fUNZ86HseUiHpLZqo6CNr5bTvd3DEDKwa5fWNfSfk",
+    "image_src": "images/FyraLabs_suzyqboard.jpg",
     "description": "This project is an implementation of the SuzyQ used to access CCD on Chromebooks. Using CCD, you can (un)brick, debug, and flash (ex. coreboot) your Chromebook.",
     "eda": "kicad",
     "tags": [
