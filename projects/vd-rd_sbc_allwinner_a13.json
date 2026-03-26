@@ -1,0 +1,20 @@
+{
+    "url": "https://github.com/vd-rd/sbc_allwinner_a13",
+    "name": "Allwinner A13 Board",
+    "image_src": "https://github.com/vd-rd/sbc_allwinner_a13/raw/main/assets/front.png",
+    "description": "Allwinner A13 Board",
+    "eda": "kicad",
+    "tags": [
+        "sbc",
+        "allwinner",
+        "a13",
+        "kicad",
+        "openhardware",
+        "sunxi"
+    ],
+    "website": "https://vd-rd.github.io/sbc_allwinner_a13",
+    "maintainer": {
+        "name": "Vadim Radu",
+        "url": "https://vd-rd.github.io/"
+    }
+}

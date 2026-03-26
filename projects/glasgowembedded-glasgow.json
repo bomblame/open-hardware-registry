@@ -1,0 +1,19 @@
+{
+    "url": "https://github.com/GlasgowEmbedded/glasgow.git",
+    "name": "Glasgow",
+    "image_src": "https://glasgow-embedded.org/latest/_images/glasgow-in-case.webp",
+    "description": "Scots Army Knife for electronics",
+    "license": "0BSD",
+    "eda": "kicad",
+    "tags": [
+        "debugging-tool",
+        "fpga",
+        "glasgow-interface-explorer",
+        "hardware"
+    ],
+    "website": "https://glasgow-embedded.org/",
+    "maintainer": {
+        "name": "Glasgow Embedded",
+        "url": "https://github.com/GlasgowEmbedded"
+    }
+}

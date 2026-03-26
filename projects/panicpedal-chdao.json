@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/chdao/PanicPedal",
+    "name": "PanicPedal",
+    "description": "Wireless arcade pedal system using ESP-NOW for low-latency communication. ESP32 transmitters send pedal inputs to ESP32-S3 USB HID receiver. Supports single/dual pedal configurations.",
+    "eda": "kicad",
+    "license": "AGPL-3.0",
+    "maintainer": {
+        "name": "chdao",
+        "url": "https://github.com/chdao"
+    }
+}

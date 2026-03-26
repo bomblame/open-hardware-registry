@@ -1,0 +1,27 @@
+{
+    "url": "https://github.com/1-max-1/heli-avionics",
+    "name": "heli-avionics",
+    "description": "Custom flight controller for coaxial RC helicopter with brushed DC motors. Features ATmega4808 MCU, NRF24L01 RF transceiver, DRV8212 motor drivers, and BMP390 pressure sensor for altitude.",
+    "eda": "kicad",
+    "tags": [
+        "atmega4808",
+        "avionics",
+        "brushed-motor-drone",
+        "control-systems",
+        "electronics",
+        "embedded-systems",
+        "flight-controller",
+        "kicad",
+        "motor-driver",
+        "nrf24l01plus",
+        "pcb",
+        "rc-helicopter",
+        "rc-hobby",
+        "remote-control",
+        "rf"
+    ],
+    "maintainer": {
+        "name": "1-max-1",
+        "url": "https://github.com/1-max-1"
+    }
+}

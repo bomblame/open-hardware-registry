@@ -1,0 +1,12 @@
+{
+    "url": "https://codeberg.org/Trainberry/Hardware",
+    "name": "Trainberry Hardware",
+    "description": "Hardware files (Kicad) and links to PCBWay to create your own cards!",
+    "license": "AGPL-3.0",
+    "eda": "kicad",
+    "website": "https://codeberg.org/Trainberry",
+    "maintainer": {
+        "name": "Florian Forestier",
+        "url": "https://forestier.re/posts/follow-me"
+    }
+}

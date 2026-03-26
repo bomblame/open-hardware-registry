@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/Neumi/open_echo.git",
+    "name": "Open Echo",
+    "description": "Open Source echo sounder / depth sounder / SONAR for bathymetry and research. Arduino based and compatible.",
+    "image_src": "https://img.youtube.com/vi/XF7rNGt6UYA/maxresdefault.jpg",
+    "eda": "kicad",
+    "maintainer": {
+        "name": "Neumi",
+        "url": "https://github.com/Neumi"
+    }
+}

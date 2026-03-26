@@ -1,0 +1,12 @@
+{
+    "url": "https://github.com/atomic14/esp32-zxspectrum-hardware.git",
+    "name": "ESP32 ZX Spectrum Hardware",
+    "description": "KiCad project for esp32-zxspectrum",
+    "image_src": "https://github.com/atomic14/esp32-zxspectrum-hardware/raw/main/images/esp32-s3-spectrum.jpg",
+    "license": "GPL-3.0",
+    "eda": "kicad",
+    "maintainer": {
+        "name": "atomic14",
+        "url": "https://github.com/atomic14"
+    }
+}

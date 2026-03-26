@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/paltatech/SiC-half-bridge",
+    "name": "SiC-half-bridge",
+    "description": "Three parallel Silicon Carbide (SiC) MOSFET half bridge power stage design. High-efficiency power electronics for motor drives and inverter applications.",
+    "eda": "kicad",
+    "maintainer": {
+        "name": "paltatech",
+        "url": "https://github.com/paltatech"
+    }
+}

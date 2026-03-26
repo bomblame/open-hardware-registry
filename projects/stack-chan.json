@@ -1,0 +1,27 @@
+{
+    "url": "https://github.com/stack-chan/stack-chan.git",
+    "name": "Stack-chan",
+    "description": "A JavaScript-driven M5Stack-embedded super-kawaii robot.",
+    "image_src": "https://github.com/stack-chan/stack-chan/actions/workflows/build.yml/badge.svg",
+    "license": "Apache-2.0",
+    "eda": "kicad",
+    "tags": [
+        "chatgpt",
+        "esp32",
+        "fusion360",
+        "hardware",
+        "javascript",
+        "kawaii",
+        "kicad",
+        "m5stack",
+        "moddable",
+        "robots",
+        "schematics",
+        "stackchan",
+        "typescript"
+    ],
+    "maintainer": {
+        "name": "Stack-chan community",
+        "url": "https://github.com/stack-chan"
+    }
+}

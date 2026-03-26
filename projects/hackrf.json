@@ -1,0 +1,22 @@
+{
+    "url": "https://github.com/greatscottgadgets/hackrf.git",
+    "name": "HackRF",
+    "priority": 120, 
+    "story_url": "/about/blog/posts/design-story-hackrf.html",
+    "image_src": "https://camo.githubusercontent.com/d74cb61b4467e9420d0b96069129712332673bb4b14147f518c39e97decc7501/68747470733a2f2f7261772e6769746875622e636f6d2f6d6f73736d616e6e2f6861636b72662f6d61737465722f646f63732f696d616765732f4861636b52462d4f6e652d6664302d303030392e6a706567",
+    "description": "low cost software radio platform",
+    "license": "GPL-2.0",
+    "eda": "kicad",
+    "tags": [
+        "hackrf",
+        "hardware",
+        "radio",
+        "rf",
+        "sdr"
+    ],
+    "website": "https://greatscottgadgets.com/hackrf/",
+    "maintainer": {
+        "name": "Great Scott Gadgets",
+        "url": "https://github.com/greatscottgadgets"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://gitlab.com/librespacefoundation/satnogs-comms/satnogs-comms-hardware.git",
+    "name": "SatNOGS Comms Hardware",
+    "image_src": "https://libre.space/wp-content/uploads/2020/09/PXL_20230623_095349203-768x1024.jpg",
+    "description": "A CubeSat format COMMS board enabling UHF and S-Band concurrent half duplex communication for small satellites. Open-source hardware following LibreCube Board specification, designed for dual-frequency transmission and reception in satellite applications.",
+    "eda": "kicad",
+    "website": "https://gitlab.com/librespacefoundation/satnogs-comms/satnogs-comms-hardware",
+    "maintainer": {
+        "name": "SatNOGS COMMS",
+        "url": "https://gitlab.com/groups/librespacefoundation/satnogs-comms"
+    }
+}

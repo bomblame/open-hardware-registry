@@ -1,0 +1,12 @@
+{
+    "url": "https://github.com/hoeken/brineomatic",
+    "name": "brineomatic",
+    "description": "Open-hardware ESP32-S3 automation controller for marine reverse-osmosis watermakers with sensor-driven automation, safety checks, and web-based control via WiFi, MQTT, and SignalK integration.",
+    "image_src": "https://raw.githubusercontent.com/hoeken/brineomatic/main/assets/brineomatic-running.png",
+    "eda": "kicad",
+    "license": "LGPL-2.1",
+    "maintainer": {
+        "name": "hoeken",
+        "url": "https://github.com/hoeken"
+    }
+}

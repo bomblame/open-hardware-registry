@@ -1,0 +1,12 @@
+{
+    "url": "https://github.com/Kolodieiev/perfect_console",
+    "name": "perfect_console",
+    "description": "Universal modular board for handheld devices (game consoles, music players, remotes) based on ESP32-S3 N16R8. Features 19+ GPIO pins, MicroSD, battery management, and Meowui firmware framework.",
+    "image_src": "https://raw.githubusercontent.com/Kolodieiev/perfect_console/main/resources/images/pcb/pcb_front.jpg",
+    "eda": "kicad",
+    "license": "Apache-2.0",
+    "maintainer": {
+        "name": "Kolodieiev",
+        "url": "https://github.com/Kolodieiev"
+    }
+}

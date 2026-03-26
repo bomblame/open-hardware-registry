@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/OSUSat/cubesat",
+    "name": "cubesat",
+    "description": "Oregon State University climate science cubesat. Open source hardware and firmware for satellite electrical power system (EPS) and on-board computer (OBC).",
+    "eda": "kicad",
+    "license": "MIT",
+    "maintainer": {
+        "name": "OSUSat",
+        "url": "https://github.com/OSUSat"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/eez-open/eez-bb3plus-cm5-mcu",
+    "name": "eez-bb3plus-cm5-mcu",
+    "description": "STM32H7-based MCU module in Raspberry Pi CM5 form factor with HDMI output, dual display support, 32MB PSRAM, 32MB Flash, 4GB eMMC, and 10/100 Ethernet connectivity.",
+    "image_src": "https://raw.githubusercontent.com/eez-open/eez-bb3plus-cm5-mcu/main/Images/CM5-STM32H7.jpg",
+    "eda": "kicad",
+    "maintainer": {
+        "name": "eez-open",
+        "url": "https://github.com/eez-open"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://github.com/badgineer/MP2-ESC.git",
+    "name": "MP2-ESC",
+    "description": "Multi-Platform, Modular, Powerful ESC",
+    "image_src": "https://raw.githubusercontent.com/badgineer/MP2-ESC/main/gh_assets/3d_pcb_front.png",
+    "license": "BSD-3-Clause",
+    "eda": "kicad",
+    "maintainer": {
+        "name": "badgineer",
+        "url": "https://github.com/badgineer"
+    }
+}

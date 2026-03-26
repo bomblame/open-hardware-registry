@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/hoeken/frothfet",
+    "name": "frothfet",
+    "description": "Open-source 8-channel load controller for marine/12-24V DC systems. ESP32-S3 based with 20A per channel, current sensing, voltage monitoring, fuse protection, PWM dimming, and SignalK integration.",
+    "eda": "kicad",
+    "license": "GPL-3.0",
+    "maintainer": {
+        "name": "hoeken",
+        "url": "https://github.com/hoeken"
+    }
+}

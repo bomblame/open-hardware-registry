@@ -1,0 +1,12 @@
+{
+    "url": "https://github.com/iMike78/home-mini-v1-drop-in-pcb",
+    "name": "home-mini-v1-drop-in-pcb",
+    "description": "Open-source replacement PCB for Google Home Mini v1 using ESP32-S3 and XMOS XU316 audio DSP. Enables open-source firmware for Home Assistant voice control or Music Assistant playback.",
+    "image_src": "https://raw.githubusercontent.com/iMike78/home-mini-v1-drop-in-pcb/main/pics/MiciMike_Home_Mini_v1_PCB_Prototype_1.png",
+    "eda": "kicad",
+    "license": "CERN-OHL-S-2.0",
+    "maintainer": {
+        "name": "iMike78",
+        "url": "https://github.com/iMike78"
+    }
+}

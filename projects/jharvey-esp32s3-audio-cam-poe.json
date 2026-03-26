@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/jharvey/ESP32S3_Audio_Cam_POE.git",
+    "name": "ESP32S3 Audio Cam POE",
+    "description": "ESP32 S3 with Audio, Camera and POE Ethernet",
+    "license": "MIT",
+    "eda": "kicad",
+    "maintainer": {
+        "name": "Jared Harvey",
+        "url": "https://github.com/jharvey"
+    }
+}

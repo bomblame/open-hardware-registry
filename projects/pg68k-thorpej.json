@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/thorpej/pg68k",
+    "name": "pg68k",
+    "description": "A series of homebrew computers based on the Motorola 680x0 CPU family, from a 68000-based BASIC machine to a potential 68060 workstation, designed for learning hardware design.",
+    "eda": "kicad",
+    "maintainer": {
+        "name": "thorpej",
+        "url": "https://github.com/thorpej"
+    }
+}

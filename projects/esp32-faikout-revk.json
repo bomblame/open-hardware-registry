@@ -1,0 +1,12 @@
+{
+    "url": "https://github.com/revk/ESP32-Faikout",
+    "name": "ESP32-Faikout",
+    "description": "Open-source WiFi module providing local control for Daikin air conditioning units without cloud dependency. Features web interface, MQTT integration, and Home Assistant compatibility.",
+    "image_src": "https://raw.githubusercontent.com/revk/ESP32-Faikout/main/PCB/Faikout/Faikout.png",
+    "eda": "kicad",
+    "license": "GPL-3.0",
+    "maintainer": {
+        "name": "Rev Adrian Kennard",
+        "url": "https://codeberg.org/RevK"
+    }
+}

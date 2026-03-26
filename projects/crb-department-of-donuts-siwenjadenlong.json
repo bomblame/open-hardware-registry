@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/SiwenJadenLong/CRB-Department-of-Donuts",
+    "name": "CRB-Department-of-Donuts",
+    "description": "Combat Robotics @ Berkeley team repository for Department of Donuts robot. Includes AUTOMELTY SIM simulation and Donut of Doom combat robot designs.",
+    "eda": "kicad",
+    "maintainer": {
+        "name": "SiwenJadenLong",
+        "url": "https://github.com/SiwenJadenLong"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/formulaslug/fs-4-schematics",
+    "name": "fs-4-schematics",
+    "description": "Electrical design repository for Formula Slug racing team's FS-4 vehicle schematics and PCBs. Part of Formula SAE engineering competition project.",
+    "eda": "kicad",
+    "maintainer": {
+        "name": "formulaslug",
+        "url": "https://github.com/formulaslug"
+    }
+}

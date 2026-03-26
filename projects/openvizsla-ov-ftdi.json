@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/openvizsla/ov_ftdi.git",
+    "name": "OpenVizsla OV FTDI",
+    "description": "FT2232H-based USB sniffer",
+    "eda": "altium",
+    "maintainer": {
+        "name": "openvizsla",
+        "url": "https://github.com/openvizsla"
+    }
+}

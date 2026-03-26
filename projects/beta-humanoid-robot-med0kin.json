@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/Med0kin/BETA-Humanoid-robot",
+    "name": "BETA-Humanoid-robot",
+    "description": "Humanoid robot project with walking, vision, and speech capabilities. Uses Raspberry Pi 4, bus/pulse servos, OpenCV for vision, and ArUco markers for pose tracking and servo control.",
+    "image_src": "https://i.imgur.com/RL8Mg1e.png",
+    "eda": "kicad",
+    "maintainer": {
+        "name": "Med0kin",
+        "url": "https://github.com/Med0kin"
+    }
+}
