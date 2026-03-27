@@ -2,7 +2,7 @@
     "url": "https://github.com/lhm0/rotating_display",
     "name": "Rotating Display",
     "description": "A DIY 40 LED rotating display with Arduino nano and ESP-01s microcontrollers",
-    "image_src": "images/lhm0-rotating-display.png",
+    "image_src": "images/lhm0-rotating-display.jpg",
     "eda": "kicad",
     "maintainer": {
         "name": "lhm0",
