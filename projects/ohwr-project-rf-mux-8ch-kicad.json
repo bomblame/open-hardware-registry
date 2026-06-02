@@ -1,0 +1,18 @@
+{
+    "url": "https://gitlab.com/ohwr/project/rf-mux-8ch",
+    "name": "Rf Mux 8Ch",
+    "priority": 100,
+    "description": "This is a PCB-design + Arduino firmware for an Ethernet-controlled 1:8\nRF-multiplexer. It allows selecting as output one of eight\ninput-channels, as commonly used e.g. in timing-laboratories when one\nwants to measure many RF-sources (clock outputs like 1PPS or 10MHz) with\na single instrument (frequency or time-interval counter).  \nThe design is for two independent MUX-boards to fit in a 1U 19” rack\nenclosure.  \nFor more information, see the\n[wiki](https://gitlab.com/ohwr/project/rf-mux-8ch/wikis/)\n\n",
+    "license": "Unknown",
+    "eda": "kicad",
+    "tags": [
+        "kicad",
+        "ohwr",
+        "hardware"
+    ],
+    "website": "https://gitlab.com/ohwr/project/rf-mux-8ch",
+    "maintainer": {
+        "name": "Open Hardware Registry",
+        "url": "https://ohwr.org/"
+    }
+}

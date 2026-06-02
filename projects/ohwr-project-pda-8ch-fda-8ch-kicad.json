@@ -1,0 +1,18 @@
+{
+    "url": "https://gitlab.com/ohwr/project/pda-8ch-fda-8ch",
+    "name": "Pda 8Ch Fda 8Ch",
+    "priority": 100,
+    "description": "High performance pulse and frequency distribution amplifier for time and\r\nfrequency metrology. The pulse distribution board is an 1:8-channel (1\r\nHz and up) logic-level distribution amplifier, while the frequency\r\ndistribution board is an 1:8-channel sine-wave (1-30 MHz) distribution\r\namplifier. Two 1:8 boards fit side-by-sides in a 1U 19\" rack enclosure,\r\nwith either BNC or SMA connectors.\r\n\r\nFor more information, see the\r\n[wiki](https://gitlab.com/ohwr/project/pda-8ch-fda-8ch/-/wikis)\r\n\r\n",
+    "license": "Unknown",
+    "eda": "kicad",
+    "tags": [
+        "kicad",
+        "ohwr",
+        "hardware"
+    ],
+    "website": "https://gitlab.com/ohwr/project/pda-8ch-fda-8ch",
+    "maintainer": {
+        "name": "Open Hardware Registry",
+        "url": "https://ohwr.org/"
+    }
+}

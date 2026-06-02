@@ -1,0 +1,19 @@
+{
+    "url": "https://gitlab.com/ohwr/project/macbeth",
+    "name": "Macbeth",
+    "priority": 100,
+    "description": "The Macbeth (MAChine / BEamline Timing Hardware) system is aimed to synchronize the beamlines experimental devices (pump-probe, laser, …) with the accelerator beam with a high accuracy",
+    "license": "Unknown",
+    "eda": "kicad",
+    "tags": [
+        "kicad",
+        "ohwr",
+        "hardware"
+    ],
+    "website": "https://gitlab.com/ohwr/project/macbeth",
+    "maintainer": {
+        "name": "Open Hardware Registry",
+        "url": "https://ohwr.org/"
+    },
+    "image_src": "images/ohwr-project-macbeth-kicad.png"
+}
