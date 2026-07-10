@@ -1,0 +1,20 @@
+{
+    "url": "https://github.com/cheyao/icepi-zero",
+    "name": "IcePi Zero",
+    "description": "An ECP5 FPGA development board in a Raspberry Pi Zero form factor, built for retrocomputing and FPGA experimentation.",
+    "image_src": "images/cheyao-icepi-zero.png",
+    "eda": "kicad",
+    "license": "SHL-2.1",
+    "tags": [
+        "fpga",
+        "ecp5",
+        "raspberry-pi",
+        "retrocomputing",
+        "kicad"
+    ],
+    "website": "https://www.crowdsupply.com/icy-electronics/icepi-zero/",
+    "maintainer": {
+        "name": "cheyao",
+        "url": "https://github.com/cheyao"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://github.com/Redherring32/OpenTendo-AGB",
+    "name": "OpenTendo AGB",
+    "description": "Open source recreation of the AGB-CPU-01 board — the original Game Boy Advance motherboard — traced and cleaned up for manufacturability.",
+    "eda": "kicad",
+    "license": "CC-BY-SA-4.0",
+    "tags": [
+        "gameboy-advance",
+        "retro-console",
+        "kicad",
+        "reverse-engineering"
+    ],
+    "maintainer": {
+        "name": "Redherring32",
+        "url": "https://github.com/Redherring32"
+    }
+}

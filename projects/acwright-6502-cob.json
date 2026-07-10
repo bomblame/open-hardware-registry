@@ -1,0 +1,18 @@
+{
+    "url": "https://github.com/acwright/6502-COB",
+    "name": "6502-COB",
+    "description": "A full-featured modular desktop computer based on the 65C02 microprocessor, with cards for CPU, memory, keyboard, storage, and clock control.",
+    "image_src": "images/acwright-6502-cob.png",
+    "eda": "kicad",
+    "license": "CERN-OHL-P-2.0",
+    "tags": [
+        "6502",
+        "retrocomputing",
+        "modular",
+        "kicad"
+    ],
+    "maintainer": {
+        "name": "acwright",
+        "url": "https://github.com/acwright"
+    }
+}

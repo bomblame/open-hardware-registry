@@ -1,0 +1,19 @@
+{
+    "url": "https://github.com/DLehenbauer/econopet",
+    "name": "EconoPET",
+    "description": "Open hardware mainboard replacement for Commodore PET/CBM 2001/30xx/40xx/80xx machines, with standalone HDMI and USB support.",
+    "image_src": "images/dlehenbauer-econopet.jpg",
+    "eda": "kicad",
+    "license": "CC0-1.0",
+    "tags": [
+        "commodore",
+        "retrocomputing",
+        "mainboard",
+        "kicad"
+    ],
+    "website": "https://dlehenbauer.github.io/econopet/",
+    "maintainer": {
+        "name": "DLehenbauer",
+        "url": "https://github.com/DLehenbauer"
+    }
+}

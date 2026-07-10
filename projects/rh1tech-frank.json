@@ -1,0 +1,17 @@
+{
+    "url": "https://github.com/rh1tech/frank",
+    "name": "FRANK",
+    "description": "RP2350-based retro hardware emulation platform, spanning a family of boards (FRANK, MegaFRANK, MiniFRANK, MicroFRANK, ZeroFRANK, FRANK PGA, Nyx) plus TurboSound and Hecate add-on modules.",
+    "eda": "kicad",
+    "license": "GPL-3.0",
+    "tags": [
+        "retrocomputing",
+        "rp2350",
+        "emulation",
+        "kicad"
+    ],
+    "maintainer": {
+        "name": "rh1tech",
+        "url": "https://github.com/rh1tech"
+    }
+}

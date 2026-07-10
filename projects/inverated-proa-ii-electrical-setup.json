@@ -1,0 +1,16 @@
+{
+    "url": "https://github.com/Inverated/Proa-II-Electrical-Setup",
+    "name": "Proa II Electrical Setup",
+    "description": "Complete electrical design and microcontroller code for the Proa II sailing vessel, including solar power calibration data and KiCad schematics.",
+    "eda": "kicad",
+    "tags": [
+        "marine",
+        "solar",
+        "kicad",
+        "openhardware"
+    ],
+    "maintainer": {
+        "name": "Inverated",
+        "url": "https://github.com/Inverated"
+    }
+}

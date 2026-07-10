@@ -1,0 +1,18 @@
+{
+    "url": "https://github.com/tokai-student-rocket-project/Gen6-GSE-Elec",
+    "name": "Gen6 GSE Elec",
+    "description": "6th generation Ground Support Equipment electronics for student rocketry — compact and battery-powered, with remote N2O pressure monitoring and semi-automatic launch sequencing.",
+    "image_src": "images/tokai-student-rocket-project-gen6-gse-elec.jpg",
+    "eda": "kicad",
+    "license": "MIT",
+    "tags": [
+        "rocketry",
+        "ground-support-equipment",
+        "kicad"
+    ],
+    "website": "https://tsrp.shn.u-tokai.ac.jp/jp/",
+    "maintainer": {
+        "name": "Tokai Student Rocket Project",
+        "url": "https://github.com/tokai-student-rocket-project"
+    }
+}

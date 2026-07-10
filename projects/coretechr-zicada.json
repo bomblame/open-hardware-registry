@@ -1,0 +1,18 @@
+{
+    "url": "https://github.com/CoretechR/Zicada",
+    "name": "Zicada",
+    "description": "DIY Zigbee multisensor based on Nordic's nRF52840 SoC, combining temperature, humidity, and hall-effect sensing with 6µW standby power and 2+ years of battery life on AAA cells.",
+    "image_src": "images/coretechr-zicada.jpg",
+    "eda": "kicad",
+    "license": "GPL-3.0",
+    "tags": [
+        "zigbee",
+        "sensor",
+        "nrf52840",
+        "kicad"
+    ],
+    "maintainer": {
+        "name": "CoretechR",
+        "url": "https://github.com/CoretechR"
+    }
+}

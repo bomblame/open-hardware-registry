@@ -1,0 +1,16 @@
+{
+    "url": "https://github.com/Fangoboyo/carrie-shenzhen",
+    "name": "Carrie",
+    "description": "An embedded audio-recording smart pen shaped like a carrot, with custom PCB, ESP8266/RV1103 firmware, and a companion web dashboard.",
+    "eda": "kicad",
+    "tags": [
+        "wearable",
+        "audio",
+        "esp8266",
+        "kicad"
+    ],
+    "maintainer": {
+        "name": "Fangoboyo",
+        "url": "https://github.com/Fangoboyo"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://github.com/VanceVagell/kv4p-ht",
+    "name": "kv4p HT",
+    "description": "Open source handheld ham radio project pairing an Android app with a custom radio PCB.",
+    "eda": "kicad",
+    "license": "GPL-3.0",
+    "tags": [
+        "ham-radio",
+        "handheld",
+        "radio",
+        "kicad"
+    ],
+    "website": "https://kv4p.com",
+    "maintainer": {
+        "name": "VanceVagell",
+        "url": "https://github.com/VanceVagell"
+    }
+}

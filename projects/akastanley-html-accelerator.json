@@ -1,0 +1,18 @@
+{
+    "url": "https://github.com/akaStanley/HTML_Accelerator",
+    "name": "HTML5 Accelerator",
+    "description": "A working version of the fictional 'HTML5 Accelerator' PCIe card from an internet meme, complete with real silicon, schematics, and PCB layout.",
+    "image_src": "images/akastanley-html-accelerator.jpg",
+    "eda": "kicad",
+    "license": "GPL-3.0",
+    "tags": [
+        "pcie",
+        "meme",
+        "retro-pc",
+        "kicad"
+    ],
+    "maintainer": {
+        "name": "akaStanley",
+        "url": "https://github.com/akaStanley"
+    }
+}

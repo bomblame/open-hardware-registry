@@ -1,0 +1,17 @@
+{
+    "url": "https://github.com/jtflanagan/AppleTini",
+    "name": "AppleTini",
+    "description": "FPGA-based multifunctional peripheral card for the Apple II, evolving from a bus-dump card toward full bus support and DMA.",
+    "eda": "kicad",
+    "license": "BSD-2-Clause",
+    "tags": [
+        "apple-ii",
+        "fpga",
+        "retrocomputing",
+        "kicad"
+    ],
+    "maintainer": {
+        "name": "jtflanagan",
+        "url": "https://github.com/jtflanagan"
+    }
+}

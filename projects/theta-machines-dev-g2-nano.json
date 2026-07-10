@@ -1,0 +1,18 @@
+{
+    "url": "https://github.com/theta-machines/DEV-G2-NANO",
+    "name": "G2 Nano",
+    "description": "1 GHz Arm Cortex-M7 development board for robotics research, with dual-band Wi-Fi, 6-axis IMU, closed-loop motion controller, and 40 GPIO pins.",
+    "image_src": "images/theta-machines-dev-g2-nano.png",
+    "eda": "kicad",
+    "license": "CERN-OHL-P-2.0",
+    "tags": [
+        "robotics",
+        "cortex-m7",
+        "development-board",
+        "kicad"
+    ],
+    "maintainer": {
+        "name": "theta-machines",
+        "url": "https://github.com/theta-machines"
+    }
+}
