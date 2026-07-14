@@ -1,0 +1,16 @@
+{
+    "url": "https://github.com/jcfurey/cambridge_reverb",
+    "name": "Cambridge Reverb",
+    "description": "Complete electronics rebuild of the Vox Cambridge Reverb amplifier, with KiCad design, BOM, and ngspice simulations.",
+    "eda": "kicad",
+    "tags": [
+        "audio",
+        "amplifier",
+        "reverb",
+        "kicad"
+    ],
+    "maintainer": {
+        "name": "jcfurey",
+        "url": "https://github.com/jcfurey"
+    }
+}

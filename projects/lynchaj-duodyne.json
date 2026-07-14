@@ -1,0 +1,16 @@
+{
+    "url": "https://github.com/lynchaj/duodyne",
+    "name": "Duodyne",
+    "description": "A hobbyist retrocomputer system comprised of modules (processors, I/O, backplanes) on a system bus derived from the ECB, designed to run ROMWBW.",
+    "eda": "kicad",
+    "tags": [
+        "retrocomputing",
+        "z80",
+        "system-bus",
+        "kicad"
+    ],
+    "maintainer": {
+        "name": "lynchaj",
+        "url": "https://github.com/lynchaj"
+    }
+}

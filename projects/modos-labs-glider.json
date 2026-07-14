@@ -1,0 +1,19 @@
+{
+    "url": "https://github.com/Modos-Labs/Glider",
+    "name": "Glider",
+    "description": "Open-source E-ink monitor with driver board, case, and firmware. Mirror of the upstream GitLab project.",
+    "image_src": "images/modos-labs-glider.jpg",
+    "eda": "kicad",
+    "license": "CERN-OHL-S-2.0",
+    "tags": [
+        "e-ink",
+        "display",
+        "monitor",
+        "kicad",
+        "openhardware"
+    ],
+    "maintainer": {
+        "name": "Modos Labs",
+        "url": "https://github.com/Modos-Labs"
+    }
+}
