@@ -2,6 +2,7 @@
     "url": "https://github.com/shanteacontrols/OpenDeck",
     "name": "OpenDeck",
     "description": "A platform for building interactive control and sensing devices using MIDI and OSC, built with Zephyr RTOS.",
+    "Image_src": "images/shanteacontrols_OpenDeck.jpg"
     "eda": "kicad",
     "license": "Apache-2.0",
     "tags": [
